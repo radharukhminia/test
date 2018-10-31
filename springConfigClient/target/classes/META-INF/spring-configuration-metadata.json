@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wavelabs.booking.MessageRestController",
+      "name": "user",
+      "type": "com.wavelabs.booking.MessageRestController"
+    }
+  ],
+  "properties": []
+}
